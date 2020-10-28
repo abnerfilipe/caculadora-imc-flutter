@@ -4,10 +4,11 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto desenvolvido no curso de Flutter e Dart com objetivo de demonstrar as funcionalidades e
+criacao de tela, formularios e validade de entradas;
 
-A few resources to get you started if this is your first Flutter project:
-
+Referencias
+- [Curso de Flutter e Dart UDEMy](https://www.udemy.com/course/curso-completo-flutter-app-android-ios)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
